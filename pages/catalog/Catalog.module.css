@@ -1,0 +1,13 @@
+.catalogList {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.slider img {
+  width: 100%;
+}
+.sales {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  padding: 80px 0 120px 0;
+}
